@@ -75,7 +75,7 @@ This project demonstrates practical Python automation skills including:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOURUSERNAME/quotes-data-pipeline.git
+git clone https://github.com/ryantcooney/quotes-data-pipeline.git
 cd quotes-data-pipeline
 ```
 
