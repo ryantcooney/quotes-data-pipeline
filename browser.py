@@ -72,4 +72,4 @@ selected_tag = unique_tags[choice - 1]
 
 matching_quotes = df[df["tag_list"].apply(lambda tags: selected_tag in tags)]
 for _, row in matching_quotes.iterrows():
-    print(f'\n"{row["quote"]}" -{row["author"]}\n')
+    print(f'\n{row["quote"]} -{row["author"]}\n')
